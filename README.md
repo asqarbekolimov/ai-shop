@@ -1,3 +1,17 @@
+# AI Shop commands:
+
+### $ show me the product menu
+
+### $ Order by $(ORDER_BY name|price|category|ID
+
+### $ show me only $(CATEGORY women|men
+
+### $ Add product number $(ITEM 1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20)
+
+### $ Open my cart
+
+### $ Close my cart
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
