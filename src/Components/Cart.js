@@ -21,7 +21,7 @@ const Cart = () => {
 
   useEffect(() => {
     alanBtn({
-      key: '221c9d02ccd96af2aabb852e739fb7be2e956eca572e1d8b807a3e2338fdd0dc/stage',
+      key: 'YOUR API KEY',
       onCommand: (commandData) => {
         if (commandData.command === 'getMenu') {
           setMainCart(commandData.data)
