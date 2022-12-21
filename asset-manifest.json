@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-shop/static/css/main.d5e10576.css",
+    "main.js": "/ai-shop/static/js/main.bbc62d64.js",
+    "index.html": "/ai-shop/index.html",
+    "main.d5e10576.css.map": "/ai-shop/static/css/main.d5e10576.css.map",
+    "main.bbc62d64.js.map": "/ai-shop/static/js/main.bbc62d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e10576.css",
+    "static/js/main.bbc62d64.js"
+  ]
+}
